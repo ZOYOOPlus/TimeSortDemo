@@ -71,8 +71,8 @@
 //  Account.h
 //  TimeSortDemo
 //
-//  Created by Xinhou Jiang on 22/12/16.
-//  Copyright © 2016年 Xinhou Jiang. All rights reserved.
+//  Created by ZOYOO on 22/12/16.
+//  Copyright © 2016年 ZOYOO. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
@@ -92,8 +92,8 @@
 //  Account.m
 //  TimeSortDemo
 //
-//  Created by Xinhou Jiang on 22/12/16.
-//  Copyright © 2016年 Xinhou Jiang. All rights reserved.
+//  Created by ZOYOO on 22/12/16.
+//  Copyright © 2016年 ZOYOO. All rights reserved.
 //
 
 #import "Account.h"
@@ -117,8 +117,8 @@
 //  ViewController.m
 //  TimeSortDemo
 //
-//  Created by Xinhou Jiang on 22/12/16.
-//  Copyright © 2016年 Xinhou Jiang. All rights reserved.
+//  Created by ZOYOO on 22/12/16.
+//  Copyright © 2016年 ZOYOO. All rights reserved.
 //
 
 #import "ViewController.h"
